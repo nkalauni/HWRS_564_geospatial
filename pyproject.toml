@@ -1,0 +1,18 @@
+[project]
+name = "hw5-geospatial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.5"
+dependencies = [
+    "geopandas>=1.1.2",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
+    "notebook>=7.5.3",
+    "numpy>=2.4.1",
+    "pandas>=3.0.0",
+    "pyogrio>=0.12.1",
+    "rasterio>=1.5.0",
+    "shapely>=2.1.2",
+]
